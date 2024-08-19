@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://Adithyan S.vercel.app/" target="_blank">Adithyan S.tech</a>
+  <p target="_blank">Adithyan S.tech</p>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -27,11 +27,11 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Adithyan S4419](https://github.com/AdithyanS4419/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [AdithyanS4419](https://github.com/AdithyanS4419/Portfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://Adithyan S.vercel.app/" target="_blank">Adithyan S.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <p target="_blank">Adithyan S.tech</p> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
